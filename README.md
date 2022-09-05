@@ -19,7 +19,9 @@ Appium-Qatar-Test-Automation
 - Uçuş seçim ekranındaki uçuş saati ile uçuş detayları ekranındaki uçuş saati değeri aynı mı kontrol edilir
 
 
-Appium 7.3.0
-Gauge Java 0.6.8
-Maven 3.7.0
-JUnit 4.12
+******** Versiyonlar *********
+
+- Appium 7.3.0
+- Gauge Java 0.6.8
+- Maven 3.7.0
+- JUnit 4.12
